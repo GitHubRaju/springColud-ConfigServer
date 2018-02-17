@@ -1,0 +1,2 @@
+greeting=hello
+laneRate=100
